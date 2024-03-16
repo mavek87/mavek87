@@ -1,13 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-I'm Matteo Veroni
+# I'm Matteo Veroni
 
 Passionate Java backend developer with a flair for DevOps practices and a love for building scalable applications. With a solid foundation in Java development and expertise in technologies like Docker, Kubernetes, Gradle, Jenkins, and AWS Cloud, I thrive in crafting robust and efficient backend solutions.
 
 🚀 Let's connect and build something amazing together!
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mave87&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mave87&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mave87&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/matteoveroni/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/matteoveroni)
 
 
