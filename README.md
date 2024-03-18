@@ -1,14 +1,10 @@
 ## Hi there 👋 I'm Matteo Veroni 👨‍💻
 
-### About Me ℹ️
+### About Me
 
 I'm a passionate backend developer specialized in crafting robust and efficient backend systems using Java. In addition to that, I'm also well-versed in DevOps practices and tools. I believe in leveraging automation and infrastructure as code to streamline development workflows and ensure the scalability and reliability of applications.
 
 While backend development is my primary focus, I also enjoy delving into frontend technologies, particularly React, to create seamless user experiences.
-
-### Contact Me 📧
-
-Feel free to reach out to me via [email](mailto:matver87@gmail.com) for collaboration opportunities or just to say hi! 🚀
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,4 +28,8 @@ Feel free to reach out to me via [email](mailto:matver87@gmail.com) for collabor
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Contact Me
+
+Feel free to reach out to me via [email](mailto:matver87@gmail.com) for collaboration opportunities or just to say hi! 🚀
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)    
