@@ -1,10 +1,16 @@
-## Hi there 👋 I'm Matteo Veroni
+## Hi there 👋 I'm Matteo Veroni 👨‍💻
 
-Passionate Java backend developer with a flair for DevOps practices and a love for building scalable applications. With a solid foundation in Java development and expertise in technologies like Docker, Kubernetes, Gradle, Jenkins, and AWS Cloud, I thrive in crafting robust and efficient backend solutions.
+### About Me ℹ️
 
-🚀 Let's connect and build something amazing together!
+I'm a passionate backend developer specialized in crafting robust and efficient backend systems using Java. In addition to that, I'm also well-versed in DevOps practices and tools. I believe in leveraging automation and infrastructure as code to streamline development workflows and ensure the scalability and reliability of applications.
 
-## 💻 Tech Stack:
+While backend development is my primary focus, I also enjoy delving into frontend technologies, particularly React, to create seamless user experiences.
+
+### Contact Me 📧
+
+Feel free to reach out to me via [email](mailto:matver87@gmail.com) for collaboration opportunities or just to say hi! 🚀
+
+### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
