@@ -1,5 +1,6 @@
-
 ## Hi there 👋 I'm Matteo Veroni 👨‍💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavek87&layout=compact&langs_count=20&hide=html,css,scss)
 
 ### About Me
 
