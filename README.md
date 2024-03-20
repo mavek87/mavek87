@@ -1,10 +1,12 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavek87&layout=compact&langs_count=20&hide=html,css,scss)
+
 ## Hi there 👋 I'm Matteo Veroni 👨‍💻
 
 ### About Me
 
-I'm a passionate backend developer specialized in crafting robust and efficient backend systems using Java. In addition to that, I'm also well-versed in DevOps practices and tools. I believe in leveraging automation and infrastructure as code to streamline development workflows and ensure the scalability and reliability of applications.
+<p>I'm a passionate backend developer specialized in crafting robust and efficient backend systems using Java. In addition to that, I'm also well-versed in DevOps practices and tools. I believe in leveraging automation and infrastructure as code to streamline development workflows and ensure the scalability and reliability of applications.
 
-While backend development is my primary focus, I also enjoy delving into frontend technologies, particularly React, to create seamless user experiences.
+While backend development is my primary focus, I also enjoy delving into frontend technologies, particularly React, to create seamless user experiences.</p>
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
