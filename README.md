@@ -11,8 +11,6 @@ While backend development is my primary focus, I also enjoy delving into fronten
  <img class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=mavek87&layout=compact&langs_count=20&hide=html,css,scss)" />
 </div>
 
-
-
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
