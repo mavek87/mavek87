@@ -30,4 +30,4 @@
 
 ### Contact Me
 
-Feel free to contact me [email](mailto:matver87@gmail.com)
+Feel free to contact me on my [email](mailto:matver87@gmail.com)
