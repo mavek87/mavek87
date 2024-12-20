@@ -30,4 +30,4 @@
 
 ### Contact Me
 
-Feel free to reach out to me via [email](mailto:matver87@gmail.com) for collaborations or just to say hi! 🚀
+Feel free to contact me [email](mailto:matver87@gmail.com)
