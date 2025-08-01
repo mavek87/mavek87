@@ -2,7 +2,7 @@
 
 | About me                                                                                                      | Dev Stats                                                                                                                    |
 |------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| <div><p>I'm a software engineer with a focus on building solid and reliable backend systems. I also have experience with DevOps tools and practices, and I like using automation and infrastructure as code to make development smoother and more efficient.</p><p>While backend development is what I mostly work on, I also enjoy exploring frontend technologies like React to help create user-friendly interfaces.</p></div>| <br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavek87&size_weight=0&count_weight=1&layout=compact) <img width=800 /> |
+| <div><p>I'm a software engineer with a focus on building solid and reliable backend systems. I also have experience with DevOps tools and practices, and I like using automation and infrastructure as code.</p><p>While backend development is what I mostly work on, I also enjoy exploring frontend technologies like React to help create user-friendly interfaces.</p></div>| <br/>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mavek87&size_weight=0&count_weight=1&layout=compact) <img width=800 /> |
 
 ### 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
